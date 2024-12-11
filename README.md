@@ -1,7 +1,7 @@
 ### CS572-Homework-09-RAG
 
 Provided is the `movies.json` file, which contains an array of movie name and description `{name: string, description: string}`.
-1. Generate Embedding for each movie object `{name: string, description: string, embedding: number[]}`
+1. Generate Embedding for each movie description `{name: string, description: string, embedding: number[]}`
 2. Save the data in Atlas collection
 3. Create an Vector Search Index for the collection and `embedding` field
 4. Write a function to perform semantic vector search using the aggregation pipeline
