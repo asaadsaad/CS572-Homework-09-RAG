@@ -1,42 +1,42 @@
 [
   {
     "name": "Margherita Pizza",
-    "description": "Classic Italian pizza topped with fresh mozzarella, tomatoes, basil, and olive oil."
+    "description": "A traditional Neapolitan-style pizza made with hand-stretched dough, topped with San Marzano tomato sauce, fresh mozzarella slices, fragrant basil leaves, and extra virgin olive oil. Baked in a stone oven until the crust is lightly charred and crisp on the outside while remaining soft and airy inside."
   },
   {
     "name": "Spicy Chicken Tacos",
-    "description": "Grilled chicken with chili marinade, served in soft tortillas with salsa and avocado."
+    "description": "Tender grilled chicken marinated in a smoky chili-lime sauce, served in warm corn tortillas. Garnished with fresh pico de gallo, sliced avocado, shredded cabbage, cilantro, and a drizzle of chipotle crema for a bold and slightly spicy flavor."
   },
   {
     "name": "Vegetable Stir Fry",
-    "description": "Mixed seasonal vegetables sautéed in a savory soy-ginger sauce, served over rice."
+    "description": "A colorful mix of broccoli, bell peppers, snap peas, carrots, and mushrooms quickly sautéed in a wok with garlic, ginger, and soy sauce. Finished with a splash of sesame oil and served over steamed jasmine rice for a light yet satisfying plant-based meal."
   },
   {
-    "name": "Beef Burger",
-    "description": "Juicy grilled beef patty with cheddar cheese, lettuce, tomato, and house sauce."
+    "name": "Classic Beef Burger",
+    "description": "A thick, flame-grilled beef patty seasoned with sea salt and black pepper, layered with melted cheddar cheese, crisp lettuce, ripe tomato slices, pickles, and house-made special sauce. Served on a toasted brioche bun with a side of golden fries."
   },
   {
-    "name": "Caesar Salad",
-    "description": "Crisp romaine lettuce tossed with Caesar dressing, croutons, and parmesan cheese."
+    "name": "Caesar Salad with Grilled Chicken",
+    "description": "Crisp romaine lettuce tossed in a creamy Caesar dressing made with parmesan, garlic, anchovies, and lemon juice. Topped with herb-seasoned grilled chicken breast, crunchy croutons, and shaved parmesan cheese."
   },
   {
-    "name": "Pad Thai",
-    "description": "Rice noodles stir-fried with shrimp, eggs, tofu, peanuts, and tamarind sauce."
+    "name": "Shrimp Pad Thai",
+    "description": "Stir-fried rice noodles cooked with succulent shrimp, scrambled eggs, tofu cubes, bean sprouts, and green onions. Tossed in a tangy tamarind sauce and finished with crushed peanuts and a squeeze of fresh lime."
   },
   {
     "name": "Chocolate Lava Cake",
-    "description": "Warm chocolate cake with a gooey molten center, served with vanilla ice cream."
+    "description": "A rich dark chocolate cake baked with a molten center that flows when cut open. Served warm with a scoop of vanilla bean ice cream, fresh berries, and a dusting of powdered sugar."
   },
   {
-    "name": "Mushroom Risotto",
-    "description": "Creamy Arborio rice cooked slowly with mushrooms, parmesan, and white wine."
+    "name": "Wild Mushroom Risotto",
+    "description": "Creamy Arborio rice slowly simmered in vegetable broth and white wine, blended with sautéed wild mushrooms, shallots, and thyme. Finished with butter and grated parmesan for a velvety texture and deep earthy flavor."
   },
   {
-    "name": "Grilled Salmon",
-    "description": "Fresh salmon fillet grilled and served with lemon butter sauce and steamed vegetables."
+    "name": "Grilled Lemon Herb Salmon",
+    "description": "Fresh Atlantic salmon fillet marinated in lemon juice, garlic, and fresh herbs, then grilled to flaky perfection. Served with roasted baby potatoes and steamed asparagus, finished with a light lemon butter sauce."
   },
   {
     "name": "Falafel Wrap",
-    "description": "Crispy chickpea falafel wrapped in pita bread with tahini sauce and fresh vegetables."
+    "description": "Crispy deep-fried chickpea falafel seasoned with cumin, coriander, and parsley, wrapped in warm pita bread. Filled with hummus, tahini sauce, tomatoes, cucumbers, and pickled turnips for a flavorful Middle Eastern-inspired dish."
   }
 ]
