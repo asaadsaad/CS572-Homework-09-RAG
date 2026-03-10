@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Margherita Pizza",
+    "description": "Classic Italian pizza topped with fresh mozzarella, tomatoes, basil, and olive oil."
+  },
+  {
+    "name": "Spicy Chicken Tacos",
+    "description": "Grilled chicken with chili marinade, served in soft tortillas with salsa and avocado."
+  },
+  {
+    "name": "Vegetable Stir Fry",
+    "description": "Mixed seasonal vegetables sautéed in a savory soy-ginger sauce, served over rice."
+  },
+  {
+    "name": "Beef Burger",
+    "description": "Juicy grilled beef patty with cheddar cheese, lettuce, tomato, and house sauce."
+  },
+  {
+    "name": "Caesar Salad",
+    "description": "Crisp romaine lettuce tossed with Caesar dressing, croutons, and parmesan cheese."
+  },
+  {
+    "name": "Pad Thai",
+    "description": "Rice noodles stir-fried with shrimp, eggs, tofu, peanuts, and tamarind sauce."
+  },
+  {
+    "name": "Chocolate Lava Cake",
+    "description": "Warm chocolate cake with a gooey molten center, served with vanilla ice cream."
+  },
+  {
+    "name": "Mushroom Risotto",
+    "description": "Creamy Arborio rice cooked slowly with mushrooms, parmesan, and white wine."
+  },
+  {
+    "name": "Grilled Salmon",
+    "description": "Fresh salmon fillet grilled and served with lemon butter sauce and steamed vegetables."
+  },
+  {
+    "name": "Falafel Wrap",
+    "description": "Crispy chickpea falafel wrapped in pita bread with tahini sauce and fresh vegetables."
+  }
+]
