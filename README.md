@@ -1,10 +1,13 @@
 ### CS572-Homework-09-RAG
 
-The provided `movies.json` file contains an array of movie name and description `{name: string, description: string}`
-1. Generate Embedding for each movie description `{name: string, description: string, embedding: number[]}`.
-2. Save the data within a collection in MongoDB Atlas Cluster.
+The provided `menu.json` file contains an array of dishes `{ name: string, description: string }`
+1. Generate Embedding for each dish description `{name: string, description: string, embedding: number[]}`.
+2. Store the enriched documents in a MongoDB Atlas collection. 
 3. Create a Vector Search Index for the collection on the `embedding` field.
-4. Write a function to perform semantic similarity vector search using the aggregation pipeline.
+4. Implement a function that performs semantic similarity search using MongoDB’s aggregation pipeline. For example, given a user query ("vegetarian spicy food")
+   * Generate query embedding
+   * Use $vectorSearch
+   * Return top 5 most similar dishes with similarity score.
 
 Note: You may use `readline` core module to read an input from the console as follows:
 ```typescript
