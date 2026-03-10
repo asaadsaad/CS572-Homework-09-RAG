@@ -18,7 +18,7 @@ const user_answer = await readline_interface.question('What is your name?');
 if (user_answer === 'exit') process.exit(0);
 ```
 
-#### Bonus
+#### Optional Requirement
 Create an AI agent capable of helping users find suitable dishes based on ingredients they currently have in their fridge. 
 
 Write a function/tool `createRecipeAgent({ingredients: string[]})` that accepts a list of ingredients `["chicken", "rice", "broccoli"]`, convert the ingredient list into an embedding query and perform semantic vector search on the menu collection. Return the top most relevant recipe. 
