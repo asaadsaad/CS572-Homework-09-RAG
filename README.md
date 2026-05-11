@@ -1,4 +1,4 @@
-### CS572-Homework-09-RAG
+### CS572-Homework-RAG
 
 The provided `menu.json` file contains an array of dishes `{ name: string, description: string }`
 1. Generate Embedding for each dish description `{name: string, description: string, embedding: number[]}`.
